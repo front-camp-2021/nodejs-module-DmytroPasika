@@ -1,0 +1,23 @@
+{
+  "name": "task_node_js",
+  "version": "1.0.0",
+  "description": "Привіт!\r Ловіть на разі 2 домашки по ноді.",
+  "main": "app.js",
+  "scripts": {
+    "test": "test",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/front-camp-2021/nodejs-module-DmytroPasika.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/front-camp-2021/nodejs-module-DmytroPasika/issues"
+  },
+  "homepage": "https://github.com/front-camp-2021/nodejs-module-DmytroPasika#readme",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
