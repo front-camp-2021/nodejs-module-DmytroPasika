@@ -1,7 +1,7 @@
 {
   "name": "task_node_js",
   "version": "1.0.0",
-  "description": "Привіт!\r Ловіть на разі 2 домашки по ноді.",
+  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "test",
@@ -18,8 +18,10 @@
   },
   "homepage": "https://github.com/front-camp-2021/nodejs-module-DmytroPasika#readme",
   "dependencies": {
+    "body-parser": "^1.19.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
-    "nodemon": "^2.0.15"
+    "nodemon": "^2.0.15",
+    "uuid": "^8.3.2"
   }
 }
